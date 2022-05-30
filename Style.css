@@ -83,7 +83,7 @@ font-weight: 300;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  background-image:url(/images/paperwzbg.png) ;
+  background-image:url(Images/paperwzbg.png) ;
   background-size: cover;
   position: static;
   margin-top: -5%;
@@ -127,7 +127,7 @@ font-weight: 300;
 }
 
 .header{
-background-image: url(/images/bannermb.jpg);
+background-image: url(Images/bannermb.jpg);
 }
 
 .shape-img{
@@ -408,7 +408,7 @@ height: 7rem;
                              .flex_nav_sliders{
                                  display: flex;
                                  flex-direction: column;
-                                 background-image: url(/images/pricelistbg.png);
+                                 background-image: url(Images/pricelistbg.png);
                                  background-size: cover;
                                  width: 100%;
                     margin-top: -10%;
@@ -564,7 +564,7 @@ height: 7rem;
                       
                    }
                   .Our_teamNwork {
-                     background-image: url(/images/ourteambg.png);
+                     background-image: url(Images/ourteambg.png);
                      background-size: cover;
                      margin-top: -10%;
                      padding-bottom: 20%;
